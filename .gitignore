@@ -81,3 +81,6 @@ Desktop.ini
 
 # OpenDream compiled bytecode
 goonstation.json
+
+# maybe we dont commit the map maker
+StrongDMM.exe
