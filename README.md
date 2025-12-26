@@ -7,3 +7,5 @@
 ## coder thing
 - [ ] this will be a list of things evenutally. lorpem dimsum
 - [ ] wordle artifact?
+- [ ] meta deck storage for StG?
+- [ ] more packet commands for the Harmonic Siphon on Nadir
